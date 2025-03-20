@@ -28,9 +28,10 @@ If Java is not installed:
 
 ### ✅ **Option 1: Run via Terminal (Command Line)**
 For those **not using an IDE**, compile and run the project using:
+javac -d bin src/*.java java -cp bin Basic path/to/test-file.basic
 
 📌 **Example Usage**:
-
+java -cp bin Basic src/basic_test_file.basic
 
 ---
 
@@ -54,7 +55,7 @@ For **VS Code**:
 - Install the **Java Extension Pack** (if not installed).
 - Open the project in VS Code.
 - Modify `"args"` in `launch.json`:
-
+"args": ["src/basic_test_file.basic"]
 
 For **Eclipse**:
 - Import the project as a **Java Project**.
@@ -64,5 +65,5 @@ For **Eclipse**:
 
 ---
 
-## 📜 Example Test Input
+
 
