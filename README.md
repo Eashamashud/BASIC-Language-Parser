@@ -1,32 +1,66 @@
-# BASIC-Language-Parser
+
+ 
+# BASIC Language Parser (Java)
 
 This project is a **Java-based parser** for a BASIC-like programming language. It processes variable assignments, arithmetic expressions, conditionals (`IF` statements), and user input (`INPUT`, `PRINT`).
 
 ## 📌 How to Clone & Run This Project
 
 ### 🚀 1️⃣ Clone the Repository
-Open a terminal and run:
+Open a **terminal** or **command prompt** and run:
 
-git clone https://github.com/Eashamashud/BASIC-Language-Parser.git
-cd BASIC-Language-Parser
+### 📌 2️⃣ Ensure Java is Installed
+Make sure **Java 8+** is installed on your system:
 
-📌 2️⃣ Mark the src Folder as "Sources Root" (IntelliJ IDEA)
-Open IntelliJ IDEA and load the project.
-In Project Explorer, find the src folder.
-Right-click src → Select "Mark Directory as" → "Sources Root".
-✅ This ensures IntelliJ recognizes your Java files correctly.
+If Java is not installed:
+- **Windows:** Download Java from [Oracle](https://www.oracle.com/java/technologies/javase-jdk17-downloads.html) or install via Chocolatey:
 
-📌 3️⃣ Configure & Run the Project with a Test File
-To provide an input test file when running the program:
+- **Mac:** Install via Homebrew:
 
-Copy the full path of your .basic test file.
-Go to Run (Top Menu) → Edit Configurations.
-Click Modify options → Select "Program Arguments".
-In the "Program Arguments" field, paste the file path.
-Click Apply, then OK.
-Run the project:
-Find Basic.main() in the Project Explorer.
-Click Run ▶️.
+- **Linux (Ubuntu/Debian):**
 
 
- Happy Running :)
+---
+
+## 📌 3️⃣ Running the Project
+
+### ✅ **Option 1: Run via Terminal (Command Line)**
+For those **not using an IDE**, compile and run the project using:
+
+📌 **Example Usage**:
+
+
+---
+
+### ✅ **Option 2: Run in IntelliJ IDEA (Recommended)**
+1. **Open the project** in IntelliJ IDEA.
+2. **Mark `src` as a Sources Root**:
+   - In **Project Explorer**, right-click `src` → **"Mark Directory as" → "Sources Root"**.
+3. **Edit Run Configurations**:
+   - Go to **Run → Edit Configurations**.
+   - Under **"Program Arguments"**, paste the **full path** to your test file.
+   - Click **Apply**, then **OK**.
+4. **Run the Project**:
+   - Find `Basic.main()`, then press **Run ▶️**.
+
+---
+
+### ✅ **Option 3: Run in VS Code / Eclipse**
+If you're using **VS Code** or **Eclipse**, ensure Java is set up correctly, and run the program with a test file as a **command-line argument**.
+
+For **VS Code**:
+- Install the **Java Extension Pack** (if not installed).
+- Open the project in VS Code.
+- Modify `"args"` in `launch.json`:
+
+
+For **Eclipse**:
+- Import the project as a **Java Project**.
+- Right-click `src`, select **"Build Path" → "Use as Source Folder"**.
+- Go to **Run Configurations → Arguments**, add the test file path under **"Program Arguments"**.
+- Click **Run**.
+
+---
+
+## 📜 Example Test Input
+
