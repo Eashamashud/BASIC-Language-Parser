@@ -1,7 +1,5 @@
 # BASIC-Language-Parser
 
-# BASIC Language Parser (Java)
-
 This project is a **Java-based parser** for a BASIC-like programming language. It processes variable assignments, arithmetic expressions, conditionals (`IF` statements), and user input (`INPUT`, `PRINT`).
 
 ## 📌 How to Clone & Run This Project
