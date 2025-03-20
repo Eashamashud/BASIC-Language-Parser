@@ -1,0 +1,13 @@
+a = 3 + 4
+b = a - 3
+c = b * 2
+d = 5 / 7
+IF a <= b THEN PRINT "A is smaller or equal"
+INPUT "Enter your age: ", age
+PRINT "You are ", age, " years old"
+INPUT "Enter a number: ", num
+PRINT "The number is: ", num
+Hello , I hope you are doing well
+
+
+

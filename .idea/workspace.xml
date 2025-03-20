@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ffe56cb1-b62c-443f-bdc9-9c704d8796cb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LabLexer1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AssignmentNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FloatNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InputNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IntegerNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lexer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MathOpNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Parser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PrintNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProgramNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReadNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StatementNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StatementsNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Token.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TokenManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VariableNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic_test_file.basic" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2e68hXadFUNvkcW8MLiW5G7BPdG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showScratchesAndConsoles" value="false" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Basic.executor": "Run",
+    "Downloaded.Files.Path.Enabled": "false",
+    "JUnit.InterpreterTest.executor": "Run",
+    "JUnit.InterpreterTest.testEvaluateFloat_FloatNode.executor": "Run",
+    "JUnit.InterpreterTest.testEvaluateFloat_VariableNode.executor": "Run",
+    "JUnit.InterpreterTest.testEvaluateInt_VariableNode.executor": "Run",
+    "JUnit.InterpreterTest.testForNode.executor": "Run",
+    "JUnit.InterpreterTest.testLEFT$.executor": "Run",
+    "JUnit.InterpreterTest.testLEFT.executor": "Run",
+    "JUnit.InterpreterTest.testLabeledStatementNode.executor": "Run",
+    "JUnit.InterpreterTest.testLabeledStatementNode_SingleLabel.executor": "Run",
+    "JUnit.InterpreterTest.testMID.executor": "Run",
+    "JUnit.InterpreterTest.testNUM_float.executor": "Run",
+    "JUnit.InterpreterTest.testNUM_int.executor": "Run",
+    "JUnit.InterpreterTest.testProcessData.executor": "Run",
+    "JUnit.InterpreterTest.testRANDOM.executor": "Run",
+    "JUnit.InterpreterTest.testRIGHT$.executor": "Run",
+    "JUnit.InterpreterTest.testReadDataValues.executor": "Run",
+    "JUnit.InterpreterTest.testReadNode.executor": "Run",
+    "JUnit.InterpreterTest.testVAL.executor": "Run",
+    "JUnit.InterpreterTest.testVAL_float.executor": "Run",
+    "JUnit.ParserTest.executor": "Run",
+    "JUnit.ParserTest.testEND.executor": "Run",
+    "JUnit.ParserTest.testFor.executor": "Run",
+    "JUnit.ParserTest.testGOSUB.executor": "Run",
+    "JUnit.ParserTest.testIf.executor": "Run",
+    "JUnit.ParserTest.testLabel.executor": "Run",
+    "JUnit.ParserTest.testReturn.executor": "Run",
+    "JUnit.ParserTest.testWhile.executor": "Run",
+    "JUnit.ParserTest.testfunctionInvocation.executor": "Run",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "/Users/eashamashud/Downloads/LabLexer1/src/Main.java",
+    "settings.editor.selected.configurable": "project.propCompiler",
+    "settings.editor.splitter.proportion": "0.38594705",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.Basic">
+    <configuration name="Basic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Basic" />
+      <module name="LabLexer1" />
+      <option name="PROGRAM_PARAMETERS" value="$PROJECT_DIR$/src/basic_test_file.basic" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InterpreterTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LabLexer1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="InterpreterTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InterpreterTest.testForNode" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LabLexer1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="InterpreterTest" />
+      <option name="METHOD_NAME" value="testForNode" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InterpreterTest.testReadDataValues" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="LabLexer1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="InterpreterTest" />
+      <option name="METHOD_NAME" value="testReadDataValues" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InterpreterTest.testReadNode" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LabLexer1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="InterpreterTest" />
+      <option name="METHOD_NAME" value="testReadNode" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ParserTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LabLexer1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ParserTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Basic" />
+        <item itemvalue="JUnit.ParserTest" />
+        <item itemvalue="JUnit.InterpreterTest" />
+        <item itemvalue="JUnit.InterpreterTest.testForNode" />
+        <item itemvalue="JUnit.InterpreterTest.testReadNode" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-18abd8497189-intellij.indexing.shared.core-IU-241.14494.240" />
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-IU-241.14494.240" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ffe56cb1-b62c-443f-bdc9-9c704d8796cb" name="Changes" comment="" />
+      <created>1711213786380</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1711213786380</updated>
+      <workItem from="1711213787468" duration="10000" />
+      <workItem from="1711213799843" duration="1186000" />
+      <workItem from="1711214994271" duration="43000" />
+      <workItem from="1711215043135" duration="1000" />
+      <workItem from="1711215045814" duration="1063000" />
+      <workItem from="1711216114994" duration="68436000" />
+      <workItem from="1712001109974" duration="89000" />
+      <workItem from="1712052535075" duration="6393000" />
+      <workItem from="1712179998672" duration="43362000" />
+      <workItem from="1712625407569" duration="38902000" />
+      <workItem from="1712942778568" duration="914000" />
+      <workItem from="1712969599637" duration="1038000" />
+      <workItem from="1713041033575" duration="11000" />
+      <workItem from="1713208775934" duration="1000" />
+      <workItem from="1713208783554" duration="347000" />
+      <workItem from="1713209421887" duration="89331000" />
+      <workItem from="1714675649278" duration="9000" />
+      <workItem from="1714705264503" duration="27000" />
+      <workItem from="1714930673081" duration="1485000" />
+      <workItem from="1715359938876" duration="2408000" />
+      <workItem from="1716754346808" duration="1378000" />
+      <workItem from="1716851666030" duration="37000" />
+      <workItem from="1718829396913" duration="1900000" />
+      <workItem from="1720239008602" duration="1215000" />
+      <workItem from="1721332313421" duration="1740000" />
+      <workItem from="1721343297506" duration="2420000" />
+      <workItem from="1729171631080" duration="16000" />
+      <workItem from="1729610528483" duration="18000" />
+      <workItem from="1730606556379" duration="1657000" />
+      <workItem from="1730753510315" duration="845000" />
+      <workItem from="1730764784608" duration="373000" />
+      <workItem from="1731271808297" duration="36000" />
+      <workItem from="1731967038079" duration="111000" />
+      <workItem from="1740416530987" duration="24000" />
+      <workItem from="1741503194771" duration="10264000" />
+      <workItem from="1742363473140" duration="6735000" />
+      <workItem from="1742417494090" duration="13148000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.util.ConcurrentModificationException" package="java.util" />
+          <option name="timeStamp" value="11" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ClassCastException" package="java.lang" />
+          <option name="timeStamp" value="45" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
