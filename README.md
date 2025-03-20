@@ -8,6 +8,8 @@ This project is a **Java-based parser** for a BASIC-like programming language. I
 
 ### 🚀 1️⃣ Clone the Repository
 Open a **terminal** or **command prompt** and run:
+git clone https://github.com/Eashamashud/BASIC-Language-Parser.git
+cd BASIC-Language-Parser
 
 ### 📌 2️⃣ Ensure Java is Installed
 Make sure **Java 8+** is installed on your system:
